@@ -2,7 +2,7 @@ def add_time(start, duration, week=None):
     # Function that returns a specified time based on a start time, duration and optional weekday. Imports are not allowed. Assumes that the user enters valid strings, since no checks are in place.
 
     # Store the weekdays in a dict with corresponding numbers.
-    weekdays = {'monday':0, 'tuesday':1, 'wednesday':2, 'thursday':3, 'friday':4, 'saturday':5, 'sunday':6}
+    weekdays = {'monday':0, 'tuesday':1, 'wednesday':2, 'thursday':3, 'friday':4, 'saturday':5, 'sunday':6} 
 
     # Extract data from given start and duration strings.
     startArr = start.split(' ')
@@ -62,3 +62,5 @@ def add_time(start, duration, week=None):
         endTime += ' (next day)'
 
     return endTime
+
+    #checking
