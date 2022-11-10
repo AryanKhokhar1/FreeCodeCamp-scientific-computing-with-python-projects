@@ -62,5 +62,3 @@ def add_time(start, duration, week=None):
         endTime += ' (next day)'
 
     return endTime
-
-    #checking
