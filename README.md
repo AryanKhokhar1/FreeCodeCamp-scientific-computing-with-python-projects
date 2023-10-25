@@ -1,2 +1,16 @@
-# python_project
-This repository is use to store my scientific computing with python project code
+# FreeCodeCamp - Scientific Computing with Python Projects
+
+This repository contain 5 projects of Scientific Computing with Python by FreecodeCamp 
+- Arithmetic Formatter	
+- Time Calculator	
+- Budget App	
+- Polygon Area Calculator	
+- Probability Calculator
+
+## Skill Used
+
+The main technology used in the Aapatkal is -
+- Python
+- Algorithm
+- Problem solving
+
